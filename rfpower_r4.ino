@@ -17,7 +17,7 @@
 #include <InfluxDbCloud.h>
 
 #define INFLUXDB_URL "   "
-#define INFLUXDB_TOKEN "iiMDFX2zwTiBegKpTlVFy_S7xDsSDalL0tdcm772TmJa1tLnFnCh3R0JndmoqOtIrM2-nmRP27iiKC-wYMkn9g=="
+#define INFLUXDB_TOKEN "  "
 #define INFLUXDB_ORG "d771e6fa90a415a1"
 #define INFLUXDB_BUCKET "POWER Details"
 #define TZ_INFO "UTC5.5"
