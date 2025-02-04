@@ -26,7 +26,7 @@ Point sensor("wifi_status");
 
 /////////////////////////////////
 const char *ssid = "SPARK";
-const char *password = "iamgod01";
+const char *password = " ";
 
 const char *ntpServer1 = "pool.ntp.org";
 const char *ntpServer2 = "time.nist.gov";
