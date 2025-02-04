@@ -25,7 +25,7 @@ InfluxDBClient client(INFLUXDB_URL, INFLUXDB_ORG, INFLUXDB_BUCKET, INFLUXDB_TOKE
 Point sensor("wifi_status");
 
 /////////////////////////////////
-const char *ssid = "SPARK";
+const char *ssid = " ";
 const char *password = " ";
 
 const char *ntpServer1 = "pool.ntp.org";
