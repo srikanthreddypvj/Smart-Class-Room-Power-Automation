@@ -40,7 +40,7 @@ Technologies used in the project:
 <h2>🚀 Future Enhancements(Under Progress)</h2>
 
    * Integration of camera module for enhanced student detection.
-   * Improved predictive analytics for power usage trends.
+   * Improved predictive analytics and AI integration for power usage trends.
   *  Implementation of mobile app support for remote monitoring and control.
   *  Expanded for multi-classroom setups for institutional use.
 
