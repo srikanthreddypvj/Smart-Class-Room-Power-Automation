@@ -12,7 +12,6 @@ Here're some of the project's best features:
 *   Energy Efficiency: Minimizes unnecessary power consumption by dynamically controlling devices.
 *   Data Analytics: Tracks student attendance and analyzes power consumption trends stored in InfluxDB.
 *   Cost Estimation: Provides both estimated and actual electricity bills based on power usage.
-
 <br>
   
 <h2>💻 Built with</h2>
