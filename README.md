@@ -30,7 +30,6 @@ Technologies used in the project:
    * Power Usage Tracking: Monitors lights and fans to calculate real-time power consumption.
    * Attendance Tracking: Student entry data logged for analysis and reporting.
 
-
 <br>
 
 
