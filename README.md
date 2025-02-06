@@ -24,7 +24,6 @@ Technologies used in the project:
 
 <br>
 
-
 <h2>🎯 Key Functionalities</h2>
 
    * Live Class Strength: Displays the current number of students in the classroom.
