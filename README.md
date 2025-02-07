@@ -2,6 +2,8 @@
 
 <p id="description">An innovative IoT-based solution to automate classroom power management ensuring energy efficiency and real-time monitoring. 🚀</p>
 
+
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
