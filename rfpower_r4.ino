@@ -18,7 +18,7 @@
 
 #define INFLUXDB_URL "   "
 #define INFLUXDB_TOKEN "  "
-#define INFLUXDB_ORG "d771e6fa90a415a1"
+#define INFLUXDB_ORG " "
 #define INFLUXDB_BUCKET "POWER Details"
 #define TZ_INFO "UTC5.5"
 InfluxDBClient client(INFLUXDB_URL, INFLUXDB_ORG, INFLUXDB_BUCKET, INFLUXDB_TOKEN, InfluxDbCloud2CACert);
