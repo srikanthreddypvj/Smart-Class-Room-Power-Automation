@@ -1,7 +1,7 @@
 CREATE TABLE "mytable" (
   "SELECT *" text
 );
---Inserting
+--Inserting from the ESP32
 INSERT INTO "mytable" ("SELECT *")
 VALUES
 ('FROM "wifi_status"'),
