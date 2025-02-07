@@ -1,7 +1,7 @@
 CREATE TABLE "mytable" (
   "SELECT *" text
 );
-
+--Inserting
 INSERT INTO "mytable" ("SELECT *")
 VALUES
 ('FROM "wifi_status"'),
