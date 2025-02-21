@@ -12,6 +12,7 @@
   ESP8266WiFiMulti wifiMulti;
   #define DEVICE "ESP8266"
 #endif
+
   
 #include <InfluxDbClient.h>
 #include <InfluxDbCloud.h>
