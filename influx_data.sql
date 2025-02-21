@@ -29,3 +29,5 @@ VALUES
 ('time >= now() - interval ''2 days'''),
 ('AND'),
 ('("Strength" IS NOT NULL)');
+
+
