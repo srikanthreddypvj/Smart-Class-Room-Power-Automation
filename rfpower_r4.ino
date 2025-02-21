@@ -3,7 +3,6 @@
 #include "esp_sntp.h"
 /////////////////////////////////
 
-
 #if defined(ESP32)
   #include <WiFiMulti.h>
   WiFiMulti wifiMulti;
