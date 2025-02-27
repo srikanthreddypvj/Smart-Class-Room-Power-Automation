@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Smart Class Room Power Automation</h1>
 
 <p id="description">An innovative IoT-based solution to automate classroom power management ensuring energy efficiency and real-time monitoring. 🚀</p>
-fgfg
+gfg
 
 <h2>🧐 Features</h2>
 
