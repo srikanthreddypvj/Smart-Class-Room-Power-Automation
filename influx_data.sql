@@ -1,7 +1,6 @@
 CREATE TABLE "mytable" (
   "SELECT *" text
 );
-j
 --Inserting from the ESP32
 
 INSERT INTO "mytable" ("SELECT *")
