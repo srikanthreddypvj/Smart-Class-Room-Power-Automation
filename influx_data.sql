@@ -1,6 +1,7 @@
 CREATE TABLE "mytable" (
   "SELECT *" text
 );
+jhBDC
 
 --Inserting from the ESP32
 
