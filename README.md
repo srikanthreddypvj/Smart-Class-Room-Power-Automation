@@ -39,11 +39,11 @@ Technologies used in the project:
 <br>
 
 
-<h2>🚀 Future Enhancements(Under Progress)</h2>
+<h2>🚀 Future Enhancements(Integrated AI Models)</h2>
 
-   * Integration of camera module for enhanced student detection.
-   * Improved predictive analytics for power usage trends.
+  * Integration of camera module for enhanced student detection.
+  * Improved predictive analytics for power usage trends.
   *  Implementation of mobile app support for remote monitoring and control.
   *  Expanded for multi-classroom setups for institutional use.
-
+Fine Tuned Model - https://github.com/srikanthreddypvj/Inception-Resnet
 <br>
